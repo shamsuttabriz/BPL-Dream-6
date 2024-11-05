@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "cover_img": "https://i.ibb.co.com/jR6sHcp/img01.jpg",
+    "player_name": "Shane Watts",
+    "player_country": "Australia",
+    "player_type": "All Rounder",
+    "player_rating": 85,
+    "batting_style": "Right-hand Bat",
+    "bolling_style": "Right-arm Fast",
+    "player_price": 750000
+  },
+  {
+    "id": 2,
+    "cover_img": "https://i.ibb.co.com/86jqddh/img02.jpg",
+    "player_name": "Rajesh Kumar",
+    "player_country": "India",
+    "player_type": "Bowler",
+    "player_rating": 80,
+    "batting_style": "Left-hand Bat",
+    "bolling_style": "Left-arm Spin",
+    "player_price": 500000
+  },
+  {
+    "id": 3,
+    "cover_img": "https://i.ibb.co.com/1ms424h/img03.jpg",
+    "player_name": "James Smith",
+    "player_country": "England",
+    "player_type": "Batter",
+    "player_rating": 90,
+    "batting_style": "Right-hand Bat",
+    "bolling_style": "None",
+    "player_price": 900000
+  },
+  {
+    "id": 4,
+    "cover_img": "https://i.ibb.co.com/g4QxjWq/img04.jpg",
+    "player_name": "Hasan Ali",
+    "player_country": "Pakistan",
+    "player_type": "Bowler",
+    "player_rating": 88,
+    "batting_style": "Right-hand Bat",
+    "bolling_style": "Right-arm Medium",
+    "player_price": 650000
+  },
+  {
+    "id": 5,
+    "cover_img": "https://i.ibb.co.com/HY1Fxcn/img05.jpg",
+    "player_name": "Chris Walker",
+    "player_country": "South Africa",
+    "player_type": "All Rounder",
+    "player_rating": 92,
+    "batting_style": "Left-hand Bat",
+    "bolling_style": "Right-arm Off Spin",
+    "player_price": 820000
+  },
+  {
+    "id": 6,
+    "cover_img": "https://i.ibb.co.com/jDDFtjY/img06.jpg",
+    "player_name": "Takahiro Shimizu",
+    "player_country": "Japan",
+    "player_type": "Batter",
+    "player_rating": 78,
+    "batting_style": "Right-hand Bat",
+    "bolling_style": "None",
+    "player_price": 480000
+  },
+  {
+    "id": 7,
+    "cover_img": "https://i.ibb.co.com/tm771HJ/img07.jpg",
+    "player_name": "Fernando Gomez",
+    "player_country": "West Indies",
+    "player_type": "Bowler",
+    "player_rating": 86,
+    "batting_style": "Left-hand Bat",
+    "bolling_style": "Right-arm Leg Spin",
+    "player_price": 715000
+  },
+  {
+    "id": 8,
+    "cover_img": "https://i.ibb.co.com/yVKrMD9/img08.jpg",
+    "player_name": "Ahmed Khalid",
+    "player_country": "Bangladesh",
+    "player_type": "All Rounder",
+    "player_rating": 89,
+    "batting_style": "Right-hand Bat",
+    "bolling_style": "Left-arm Fast",
+    "player_price": 610000
+  },
+  {
+    "id": 9,
+    "cover_img": "https://i.ibb.co.com/L9z4cLV/img09.jpg",
+    "player_name": "Liam Ford",
+    "player_country": "New Zealand",
+    "player_type": "Batter",
+    "player_rating": 82,
+    "batting_style": "Left-hand Bat",
+    "bolling_style": "None",
+    "player_price": 530000
+  },
+  {
+    "id": 10,
+    "cover_img": "https://i.ibb.co.com/SvqMJPg/img10.jpg",
+    "player_name": "Mohammed Shaheen",
+    "player_country": "Afghanistan",
+    "player_type": "Bowler",
+    "player_rating": 84,
+    "batting_style": "Right-hand Bat",
+    "bolling_style": "Right-arm Fast-Medium",
+    "player_price": 495000
+  }
+]
